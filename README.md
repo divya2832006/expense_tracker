@@ -40,7 +40,7 @@ expense_tracker/
    uvicorn main:app --reload
 
 4. Open Swagger UI
-   http://localhost:8000/docs
+    https://expense-tracker-906r.onrender.com/docs
 
 ## API Endpoints
 
