@@ -30,7 +30,7 @@ expense_tracker/
 ## Installation & Setup
 
 1. Clone the repository
-   git clone https://github.com/yourusername/expense-tracker-api.git
+   git clone https://github.com/divya2832006/expense-tracker-api.git
    cd expense-tracker-api
 
 2. Install dependencies
